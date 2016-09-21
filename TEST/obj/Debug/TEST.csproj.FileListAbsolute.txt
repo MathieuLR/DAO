@@ -1,0 +1,8 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\TEST\bin\Debug\TEST.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\TEST\bin\Debug\TEST.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\TEST\bin\Debug\TEST.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\TEST\obj\Debug\TEST.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\TEST\obj\Debug\TEST.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\TEST\bin\Debug\DAL.dll
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\TEST\bin\Debug\DAL.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache

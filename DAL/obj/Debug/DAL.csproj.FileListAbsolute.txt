@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\DAL\bin\Debug\DAL.dll
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\DAL\bin\Debug\DAL.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\DAL\obj\Debug\DAL.dll
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\DAO\DAL\obj\Debug\DAL.pdb
